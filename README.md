@@ -25,7 +25,7 @@ A visually appealing and interactive website for a burger restaurant, designed u
 
 ## Demo
 
-Check out the live version [here](https://vipulbeniwal01.github.io/BURGER-HOUSE-WEBSITE/)
+Check out the live version [here](https://m0hitchaudhary.github.io/BURGER-HOUSE-WEBSITE/)
 
 A visually appealing and interactive website for a burger restaurant, designed using **HTML**, **CSS**, and **JavaScript**. It features smooth scroll animations powered by **ScrollReveal** to enhance user experience.
 
